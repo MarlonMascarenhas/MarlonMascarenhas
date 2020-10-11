@@ -77,12 +77,16 @@
       height="40"
     />
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+  <a href="https://vuejs.org/" target="_blank">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css"
+      src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original-wordmark.svg"
       alt="css3"
       width="40"
       height="40"
     />
   </a>
 </p>
+
+### Find me around the web 🌎:
+
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/marlon-mascarenhas-036409127/">LinkedIn</a>.
