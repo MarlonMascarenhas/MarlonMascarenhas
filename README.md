@@ -22,3 +22,67 @@
     />
   </a>
 </p>
+
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+### Abstract
+
+- 👨‍💻 trying a full time business.
+- 🌱 Learning more about and studying: **NodeJS, DevOps and React**.
+- 💙 Interests: games 👾, program developer 💻.
+
+### Languages and Tools
+
+<br/>
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
