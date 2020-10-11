@@ -1,9 +1,9 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="280"  src="signature.png" />
+    <img align="left" width="280"  src="signature.png" />
   </a>
   <a href="#">
-    <img align="center" width="350"  src="banner.gif" />
+    <img align="right" width="330"  src="banner.gif" />
   </a>
 </p>
 aaaaaaaaaaaa
