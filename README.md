@@ -1,29 +1,32 @@
+## Hi there! I'm Marlon Mascarenhas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/MarlonMascarenhas)
+
+<!--
 <p align="center">
   <a href="#">
-    <img align="center" width="280"  src="signature.png" />
+    <img align="center" width="280" src="signature.png" />
   </a>
   <a href="#">
-    <img align="center" width="300"  src="banner.gif" />
+    <img align="center" width="510" src="banner.gif" />
   </a>
 </p>
-
+-->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/MarlonMascarenhas/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonMascarenhas&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonMascarenhas&layout=compact&theme=radical"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/MarlonMascarenhas/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=MarlonMascarenhas&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=wnqueiroz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
     />
   </a>
 </p>
-
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
 
@@ -31,62 +34,13 @@
 - 🌱 Learning more about and studying: **NodeJS, DevOps and React**.
 - 💙 Interests: games 👾, program developer 💻.
 
-### Languages and Tools
+### Languages and Tools:
 
-<br/>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img
-      src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img
-      src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-### Find me around the web 🌎:
-
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/marlon-mascarenhas-036409127/">LinkedIn</a>.
+<code><img height="25" src="angular-icon-1.svg" alt="Angular"></code>
+<code><img height="25" src="c--4.svg" alt="c#"></code>
+<code><img height="20" src="css3.svg" alt="css3"></code>
+<code><img height="25" src="javascript.svg" alt="javascript"></code>
+<code><img height="25" src="Node.js_logo.svg" alt="NodeJs"></code>
+<code><img height="25" src="react.svg" alt="react"></code>
+<code><img height="25" src="spring-3.svg" alt="spring"></code>
+<code><img height="25" src="typescriptlang-icon.svg" alt="typescript"></code>
